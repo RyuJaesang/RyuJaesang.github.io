@@ -103,7 +103,7 @@ analytics:
 # Site Author
 author:
   name             : "Jaesang Ryu"
-  avatar           : "/assets/images/ME.jpeg"
+  avatar           : "/assets/images/ME.png"
   bio              : "KFTC(금융결제원) / Backend Developer"
   location         : "Seoul"
   email            : "rjs9611@naver.com"
