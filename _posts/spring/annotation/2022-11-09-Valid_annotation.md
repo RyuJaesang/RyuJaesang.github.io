@@ -49,6 +49,7 @@ public class Order {
 - Dispatcher Servlet -> Controller 로 요청이 전달될 때, 컨트롤러 메소드의 객체를 만들어주는 ArgumentResolver가 동작한다.
 - 이 때, @Valid로 시작하는 어노테이션이 있을 경우 유효성을 검증한다.
 - 따라서 Controller 계층에서만 동작하며 다른 계층(ex. Service)에서 검증을 수행하고 싶다면 @Validated를 사용해야한다.
+
 ---
 
 ## 호가 검증
